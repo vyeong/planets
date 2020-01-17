@@ -7,3 +7,4 @@ sixth line from collaborator
 this line added to vyeong's copy
 added another line
 test for conflict lm3230 completed
+this is from rstudio
