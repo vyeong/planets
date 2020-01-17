@@ -6,4 +6,4 @@ working on research from the web
 sixth line from collaborator
 this line added to vyeong's copy
 added another line
-maybe this will create a conflict??
+test for conflict lm3230 completed
